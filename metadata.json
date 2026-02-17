@@ -1,0 +1,5 @@
+{
+  "name": "Gemini RAG Agent",
+  "description": "A modern, minimalist AI agent with client-side RAG capabilities, allowing you to upload knowledge bases and chat with the information using Gemini.",
+  "requestFramePermissions": []
+}
